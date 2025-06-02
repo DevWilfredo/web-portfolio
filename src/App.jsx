@@ -1,5 +1,5 @@
 import background from './assets/DEGRADADO-VERTICAL.jpg';
-import logo from './assets/logo_wdev_slogan.png';
+import logo from './assets/logo_wdev.png';
 
 function App() {
   return (
